@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Monstera",
+      "image": "https://cdn.shopify.com/s/files/1/0013/3529/6118/products/Wythe-30-2970.030-WH_Monstera-Deliciosa-10.jpg?v=1605963690",
+      "price": 20.08,
+      "id": 8
+    },
+    {
+      "name": "Prayer (Calathea)",
+      "image": "https://assets.eflorist.com/site/EF-2287/assets/products/PHR_/sku6701215.jpg",
+      "price": "16.04",
+      "id": 9
+    },
+    {
+      "name": "Noodles",
+      "image": "https://media.istockphoto.com/photos/top-view-of-cup-of-instant-noodle-ready-to-eat-picture-id805418560?k=20&m=805418560&s=612x612&w=0&h=codzMS4FdBUeHp1MITaGv7ggiVx3_gNwFowVzNT_VXA=",
+      "price": "30",
+      "id": 10
     }
   ]
 }
